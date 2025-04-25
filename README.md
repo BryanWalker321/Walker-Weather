@@ -64,6 +64,9 @@ You can easily adjust the script to better suit your server needs using the prov
   ```
   - The boolean at the end (`true`) specifies admin-only access. Set it to `false` if you wish to allow all players to use the manual trigger command.
 
+- **QBox Servers:**
+   - The script is for QB-Core servers by default. If you run QBox, change all references to 'QB-Core' to 'QBox'.
+
 ---
 
 ## Installation
