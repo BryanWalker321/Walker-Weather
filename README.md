@@ -94,7 +94,7 @@ if you do not wish for persistent console logging.
 ---
 
 ## License
-Walker-Weather is open-source and released under the GPU License. You are free to modify and redistribute this script as you see fit, provided attribution is maintained.
+Walker-NPC-FireAndRescue is released under the **GPL License**. Feel free to modify and redistribute with credit.
 
 ---
 
